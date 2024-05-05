@@ -28,7 +28,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 
 ### Data Sources
-The primary dataset used for this project was downloaded here [https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket?rvi=1](https)
+The primary dataset used for this project was downloaded here [sales-of-a-supermarket](https)
 
 Below is a detailed breakdown of each column descriptions below:
 

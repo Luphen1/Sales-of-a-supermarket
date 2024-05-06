@@ -23,13 +23,15 @@
 
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. 
 
-I will utilize the 'groupby' function in pandas to identify trends and patterns throughout my analysis. This approach will make informed decisions aimed at enhancing the business.
+I utilize the 'groupby' function in pandas to identify trends and patterns throughout my analysis. This approach will make informed decisions aimed at enhancing the business.
 
+![Screenshot (33)](https://github.com/Luphen1/Sales-of-a-supermarket/assets/140397207/3011c378-1c90-46e3-a939-4005fa48fc58)
 
 ### Data Sources
 The primary dataset used for this project was downloaded here [https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket](https)
 
 Below is a detailed breakdown of each column descriptions below:
+
 
 Invoice id: Computer generated sales slip invoice identification number.
 
@@ -84,14 +86,14 @@ In the initial data preparation, I performed the following tasks below:
 ### Exploration Data Analysis
 
 EDA involved exploring the supermarket dataset to answer key questions such as:
-1.	What is the distribution of sales across different branches?
+1.	What was the distribution of sales across different branches?
 2.	How does customer type (member/normal) sales revenue varies across the dataset?
-3.	What is the average gross income for each product line?
+3.	What was the average gross income for each product line?
 4.	What month has the best revenue income?
 5.	Find payment type with the most revenue.
-6.	Find the correction relationship between cogs, gross income, Rating, Unit price, Quantity and Tax 5%
-7.	What is the gender demographic in the dataset?
-8.	What is the average rating for each product line?
+6.	Find the correlation relationship between cogs, gross income, Rating, Unit price, Quantity and Tax 5%
+7.	What was the percentage gender demographic in the dataset?
+8.	What was the average rating for each product line?
 9.	What city has the best order quantity?
 10.	Which product lines have the highest and lowest percentage sales volumes?
 
@@ -125,11 +127,11 @@ EDA involved exploring the supermarket dataset to answer key questions such as:
 3.	Product Category Analysis: Home and lifestyle products seem to be performing well compared to fashion and accessories. This suggests a potential opportunity to optimize the product mix or marketing strategies for fashion and accessories to increase sales and average income.
 4.	Monthly Revenue Analysis: January is identified as the month generating the best revenue income. Understanding the factors contributing to this peak performance, such as seasonal trends or promotional activities, can help in planning future marketing campaigns and sales strategies.
 5.	Payment Method Impact: Cash payment type generates the most revenue, indicating that offering discounts or incentives for cash payments could be beneficial. However, exploring reasons behind this preference and ensuring convenient payment options for all customers is essential.
-6.	Correlation Analysis: Understanding the correlations between variables like "cogs," "gross income," and others can help in predicting and managing financial performance. Monitoring these correlations over time can provide insights into changing business dynamics.
+6.	Correlation Analysis: Understanding the correlations between variables like "cogs," "gross income," and others could help in predicting and managing financial performance. Monitoring these correlations over time could provide insights into changing business dynamics.
 7.	Gender Demographics: The nearly equal distribution of male and female customers suggests that marketing strategies should cater to both demographics equally, ensuring inclusivity and broad appeal in advertising and product offerings.
-8.	Product Rating Analysis: Analyzing product ratings across different categories can provide insights into customer preferences and satisfaction levels. Improving the quality or variety of products with lower ratings could enhance overall customer experience and loyalty.
+8.	Product Rating Analysis: Analyzing product ratings across different categories could provide insights into customer preferences and satisfaction levels. Improving the quality or variety of products with lower ratings could enhance overall customer experience and loyalty.
 9.	Location-Based Analysis: Yangon city stands out for having the highest order quantity. Further investigation into the reasons behind this trend could uncover opportunities for targeted marketing or expansion strategies in similar locations.
-10.	Product Line Performance: Understanding the performance of different product lines, such as food and beverages versus health and beauty, can help in optimizing inventory management, marketing efforts, and overall business focus. Identifying the reasons behind the success of certain product lines can inform strategic decision-making.
+10.	Product Line Performance: Understanding the performance of different product lines, such as food and beverages versus health and beauty, could help in optimizing inventory management, marketing efforts, and overall business focus. Identifying the reasons behind the success of certain product lines could inform strategic decision-making.
 
 
 

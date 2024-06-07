@@ -113,7 +113,7 @@ EDA involved exploring the supermarket dataset to answer key questions such as:
 9.	"Quantity" has a strong positive correlation with "COGS" and "gross income" (0.70), indicating that as the quantity sold increases, both "COGS" and "gross income" tend to increase.
 10.	"Tax 5%" has a perfect positive correlation with "COGS" and "gross income" (1.00), suggesting they move together perfectly, possibly implying that the tax is directly proportional to both "COGS" 
      and "gross income".
-11.	There is a high percentage of 50.10% female and 49.90% male across the dataset.
+11.	There was a high percentage of 50.10% female and 49.90% male across the dataset.
 12.	Food beverage and home lifestyle tend to have the highest and lowest average ratings of 7.11 and 6.84 respectively.
 13.	Yangon city tends to have the highest order quantity.
 14.	Product lines with the highest and lowest percentages are food and beverages and health and beauty, with 17.38% and 15.23% respectively.

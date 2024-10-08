@@ -96,6 +96,7 @@ EDA involved exploring the supermarket dataset to answer key questions such as:
 8.	What was the average rating for each product line?
 9.	What city has the best order quantity?
 10.	Which product lines have the highest and lowest percentage sales volumes?
+11.	How does weekly sales vary across the dataframe?
 
 
 

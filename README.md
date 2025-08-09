@@ -12,7 +12,7 @@
 
 -  [Data Cleaning/Preparation](#Data_Cleaning/Preparation)
 
--  [Exploration Data Analysis](#Exploration_Data_Analysis)
+-  [Exploratory Data Analysis](#Exploratory_Data_Analysis)
 
 -  [Results/Findings](#Results/Findings)
 
@@ -21,7 +21,7 @@
 
 ### Project Overview
 
-The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. 
+Analyzed 1,000 sales transactions from three supermarket branches over a 3-month period to uncover performance gaps and revenue drivers. The analysis informed strategic recommendations to optimize product mix,replicate successful branch strategies,and ultimately aimed at boosting revenue and operational efficiency.
 
 I utilize the 'groupby' function in pandas to identify trends and patterns throughout my analysis. This approach will make informed decisions aimed at enhancing the business.
 

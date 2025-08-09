@@ -23,7 +23,7 @@
 
 Analyzed 1,000 sales transactions from three supermarket branches over a 3-month period to uncover performance gaps and revenue drivers. The analysis informed strategic recommendations to optimize product mix,replicate successful branch strategies,and ultimately aimed at boosting revenue and operational efficiency.
 
-I utilize the 'groupby' function in pandas to identify trends and patterns throughout my analysis. This approach will make informed decisions aimed at enhancing the business.
+
 
 ![Screenshot (33)](https://github.com/Luphen1/Sales-of-a-supermarket/assets/140397207/3011c378-1c90-46e3-a939-4005fa48fc58)
 

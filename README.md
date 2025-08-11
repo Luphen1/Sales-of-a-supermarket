@@ -83,7 +83,7 @@ In the initial data preparation, I performed the following tasks below:
 5. Visualized column quantity with boxplot to check if there were outliers across the dataset.
 
 
-### Exploration Data Analysis
+### Exploratory Data Analysis
 
 EDA involved exploring the supermarket dataset to answer key questions such as:
 1.	What was the distribution of sales across different branches?
